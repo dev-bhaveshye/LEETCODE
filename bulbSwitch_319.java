@@ -2,7 +2,7 @@ package LEETCODE;
 
 public class bulbSwitch_319 {
     public static void main(String[] args) {
-         int bulbs=3;
+         int bulbs=15;
          
          int i=1;
          int count =0;
