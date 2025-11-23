@@ -1,3 +1,4 @@
+package Capgemini;
 import java.util.*;
 public class HackWithInfi_Interview_Question {
     public static void main(String[] args){
